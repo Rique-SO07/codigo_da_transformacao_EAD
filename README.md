@@ -8,4 +8,5 @@ Esse repositório será para responder a plataforma e atividades nela criada. E 
 * Gabriela Leite;
 * Rychard Rodrigues 
 
-##Tema: Hamburgueria 🍔🔥
+
+## Tema: Hamburgueria 🍔🔥
